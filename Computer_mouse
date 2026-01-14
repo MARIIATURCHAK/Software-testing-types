@@ -1,0 +1,50 @@
+1.	Installation Testing
+•	Verify that the indicator light is illuminated, confirming a successful connection
+•	Verify that the mouse is displayed in the list of connected devices, with its status showing as "Connected"
+•	Verify that the necessary drivers are automatically installed or recognized by the operating system
+2.	Smoke Testing
+•	Verify that the left and right mouse buttons respond to clicks
+•	Verify that the cursor moves on the screen.
+3.	Functionality Testing 
+•	Verify that clicking the left button selects and activates elements, while clicking the right button opens the context menu
+•	Verify that a double-click on a mouse button performs the expected action, such as opening a file or program
+•	Verify that an object can be successfully moved from its original position to a new location by dragging and dropping it.
+•	Verify that a middle-click performs the expected action, such as opening a link in a new tab
+•	Verify that the mouse scroll wheel scrolls content up and down
+4.	Compatibility Testing 
+•	Check the connection of the mouse to different devices (laptop, PC, TV, etc.).
+•	Test mouse performance on different surfaces(Desk, Mouse pad, Glass, Fabric, etc.)
+•	Check compatibility with different operating systems (Windows, macOS, Linux).
+•	Test functionality with different USB ports (2.0 / 3.0)
+•	Verify that the mouse works with USB-C ports using an appropriate adapter (if applicable)
+•	Verify that the mouse does not cause compatibility issues with other connected devices
+5.	Usability Testing
+•	Evaluate how comfortable the mouse is to hold (ergonomics).
+•	Check if buttons are easily accessible and logically placed.
+•	Test the weight — whether it feels too heavy or too light.
+•	Assess comfort during long-term use (over 2 hours).
+6.	Security Testing
+•	Verify that the wired mouse transmits only standard Human Interface Device signals by using a USB protocol analyzer to monitor and analyze the data packets
+7.	Safety Testing
+•	Ensure there are no sharp edges or dangerous components.
+•	Check that the device does not overheat during long use
+•	Verify proper insulation of the mouse's internal wiring
+•	Ensure materials used are non-toxic and comply with safety standards
+8.	Performance Testing
+•	Measure response time between mouse movement and on-screen cursor movement.
+•	Test signal stability during active use.
+9.	Load Testing
+•	Perform 1000–5000 continuous clicks to test button and scroll wheel stability.
+•	Check if the device maintains consistent performance under continuous motion.
+10.	Stress Testing
+•	Test the mouse under extreme conditions:
+o	Rapid clicking (5000+ times).
+o	Long-term gaming or heavy use sessions.
+•	Test protection against environmental factors (dust, moisture, splashes).
+11.	UI Testing (User Interface)
+•	Verify that button size, shape, and placement are consistent with the design
+•	Confirm that any branding or logos are correctly applied
+12.	UX Testing (User Experience)
+•	Сheck the ease of connecting the mouse
+•	Test button placement and accessibility for users with different hand sizes.
+•	Verify the quality of the surface material
