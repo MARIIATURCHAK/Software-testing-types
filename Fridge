@@ -1,0 +1,53 @@
+1. Installation / Setup
+•	Check connection to the electrical network (voltage, cable, plug).
+•	Ensure power indicators work properly (LED or display).
+•	Verify correct placement of the refrigerator (leveling, stability).
+2. Smoke Testing
+•	Verify basic operation after connection:
+o	Internal cooling.
+o	Operation of power buttons (if present).
+o	Opening and closing of doors without issues.
+3. Functionality Testing
+•	Check for shelves, drawers, and their durability.
+•	Verify temperature settings for the fridge and freezer compartments.
+•	Test additional functions (if available: clock, door open alert, fast cooling mode).
+4. Compatibility Testing
+•	Check compatibility with different room sizes (ventilation space around the refrigerator).
+•	Test normal use with various types of food.
+5. Usability Testing
+•	Check ease of opening and closing doors.
+•	Verify door open alert works correctly.
+•	Test intuitiveness of the control panel and accessibility of buttons/display.
+•	Evaluate convenience of shelf and drawer placement for user access.
+6. Safety Testing
+•	Verify protection against compressor and electrical overheating.
+•	Ensure the exterior does not reach unsafe temperatures.
+•	Check that doors are safe for children (prevention of finger trapping).
+•	Verify absence of sharp edges or hazardous protrusions.
+•	Check stability of the refrigerator to prevent tipping.
+•	Inspect electrical wiring and plugs for safety (insulation, no damage).
+7. Security Testing
+•	Test resistance to electromagnetic interference and voltage fluctuations.
+•	Check durability of the body and doors under external impact (bumps, falling objects).
+•	Ensure door open and temperature alert signals work under extreme conditions.
+8. Performance Testing
+•	Measure time to reach the set temperature in fridge and freezer compartments.
+•	Measure power consumption.
+•	Verify correct operation of temperature and alert indicators.
+9. Load Testing
+•	Repeated door opening and closing (e.g., up to 70,000 cycles) to test durability of mechanisms and alert signal stability.
+•	Test operation of shelves and drawers under load with food products.
+10. Stress Testing
+•	Continuous operation of the refrigerator for 24–48 hours to verify stable cooling.
+•	Extreme load conditions: fully stocked fridge to test compressor performance.
+•	Excessive door opening beyond normal use (more than 70,000 cycles) to test durability.
+11. UI Testing (User Interface)
+•	Check readability and clarity of indicators and control settings.
+•	Verify visibility and clarity of display or control panel.
+•	Test proper operation of buttons, knobs, or touch panels.
+•	Check interior lighting (if available).
+12. UX Testing (User Experience)
+•	Evaluate ease of opening and closing doors.
+•	Check overall convenience: access to shelves and drawers, ease of placing/removing food.
+•	Verify effectiveness of door open and temperature alerts for the user.
+•	Assess general comfort and usability in daily use.
