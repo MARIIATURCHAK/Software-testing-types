@@ -1,0 +1,39 @@
+1. Installation / Setup
+•	Check the presence of the lead.
+•	Ensure the pencil is intact, without cracks or major defects.
+2. Smoke Testing
+•	Write a few words or sentences on standard paper.
+•	Ensure the pencil writes properly without skipping or breaking.
+3. Functionality Testing
+•	Check line thickness (thin, medium, thick).
+•	Evaluate writing smoothness on different types of paper (plain, notebook, cardboard).
+•	Check the ability to sharpen the pencil.
+•	Check that the lead is securely fixed in the pencil body and does not fall out during use.
+4. Compatibility Testing
+•	Verify performance on different types of paper and notebooks.
+5. Usability Testing
+•	Check the comfort of holding the pencil in hand.
+•	Check writing comfort over extended periods (10–30 minutes).
+6. Safety Testing
+•	Check for absence of sharp edges or hazardous protrusions on the pencil body.
+•	Ensure the pencil is safe for children to use.
+6a. Security Testing
+•	Check pencil body strength — it should not crack under minor impacts.
+•	Test resistance to accidental drops from desk height (should not break or split).
+•	For painted pencil bodies: check that the paint does not rub off and does not contain toxic materials.
+•	Check the stability of the lead inside — it should not crumble during normal use.
+7. Performance Testing
+•	Check the number of pages that can be written before the lead is fully used.
+•	Verify stable writing after repeated sharpening.
+8. Load Testing
+•	Write a large volume of text (50–100 pages) and verify stable writing.
+•	Test writing under continuous pressure with varying force.
+9. Stress Testing
+•	Test the possibility of breaking the pencil in the middle under excessive force.
+•	Verify that the lead does not break after dropping the pencil from a small height.
+10. UI Testing
+•	Check visibility of the lead (color, markings).
+•	Check markings or other indications on the pencil body (hardness).
+11. UX Testing
+•	Evaluate writing comfort.
+•	Assess overall user experience — ease of use and whether it is comfortable for extended writing without hand fatigue.
